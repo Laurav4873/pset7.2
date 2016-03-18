@@ -1,14 +1,14 @@
 <form action="register.php" method="post">
     <fieldset>
         <div class="control-group">
-            <input autofocus name="username" placeholder="Username" type="text"/>
+            <input autofocus name="name" placeholder="Name" type="text"/>
         </div>
         <div class="control-group">
             <input autofocus name="last_name" placeholder="Last name" type="text"/>
-        </div>
+        </div>        
         <div class="control-group">
-            <input autofocus name="name" placeholder="Name" type="text"/>
-        </div>
+            <input autofocus name="username" placeholder="Username" type="text"/>
+        </div>        
         <div class="control-group">
             <input name="password" placeholder="Password" type="password"/>
         </div>

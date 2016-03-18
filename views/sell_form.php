@@ -12,6 +12,9 @@
             </select>
         </div>
         <div class="form-group">
+            <input autofocus class="form-control" name="shares" placeholder="shares" type="int"/>
+        </div>
+        <div class="form-group">
             <button type="submit" class="btn btn-default">Sell</button>
         </div>
     </fieldset>
