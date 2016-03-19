@@ -2,11 +2,11 @@
 
     <thead>
         <tr>
-            <th>Transaction</th>
-            <th>Date</th>
-            <th>Symbol</th>
-            <th>Shares</th>
-            <th>Price</th>
+            <th style= "color: blue; font-family: Verdana">Transaction</th>
+            <th style= "color: red; font-family: Verdana">Date</th>
+            <th style= "color: yellow; font-family: Verdana">Symbol</th>
+            <th style= "color: green; font-family: Verdana">Shares</th>
+            <th style= "color: blue; font-family: Verdana">Price</th>
         </tr>
     </thead>
 
