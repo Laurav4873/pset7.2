@@ -31,8 +31,11 @@
         <td>CASH</td>
         <td>$<?=number_format($user["cash"], 2)?></td>
     </tr>
-
+    
     </tbody>
 
 </table>
+
+ <img src= "http://tipsmakemoney.com/wp-content/uploads/photos/7001/Finance-Tips-Make-Money.jpg" style = "width: 50x; height: 30px"/>
+ 
 </div>
