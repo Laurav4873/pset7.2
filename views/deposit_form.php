@@ -4,8 +4,8 @@
             <input autocomplete="off" autofocus class="form-control" name="deposit" placeholder="Make Deposit" type="int"/>
         </div>
         <div class="form-group">
-            <button class="btn btn-default" type="submit">
-                Deposit
+             <button type="sybmit" class="btn btn-default btn-lg">
+              <span class="glyphicon glyphicon-piggy-bank" aria-hidden="true"></span> Deposit
             </button>
         </div>
     </fieldset>
