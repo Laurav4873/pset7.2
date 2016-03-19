@@ -15,7 +15,9 @@
             <input autofocus class="form-control" name="shares" placeholder="shares" type="int"/>
         </div>
         <div class="form-group">
-            <button type="submit" class="btn btn-default">Sell</button>
+           <button type="sybmit" class="btn btn-default btn-lg">
+              <span class="glyphicon glyphicon-usd" aria-hidden="true"></span> Sell
+            </button>
         </div>
     </fieldset>
 </form>
