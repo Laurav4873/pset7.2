@@ -5,11 +5,11 @@
 
     <thead>
         <tr>
-            <th>Symbol</th>
-            <th>Name</th>
-            <th>Shares</th>
-            <th>Price</th>
-            <th>TOTAL</th>
+            <th style= "color: blue; font-family: Verdana">Symbol</th>
+            <th style= "color: red; font-family: Verdana">Name</th>
+            <th style= "color: yellow; font-family: Verdana">Shares</th>
+            <th style= "color: green; font-family: Verdana">Price</th>
+            <th style= "color: blue; font-family: Verdana">TOTAL</th>
         </tr>
     </thead>
 
