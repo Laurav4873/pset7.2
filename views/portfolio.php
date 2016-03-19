@@ -36,6 +36,6 @@
 
 </table>
 
- <img src= "http://tipsmakemoney.com/wp-content/uploads/photos/7001/Finance-Tips-Make-Money.jpg" style = "width: 50x; height: 30px"/>
+ <img src= "http://tipsmakemoney.com/wp-content/uploads/photos/7001/Finance-Tips-Make-Money.jpg" style = "width: 1000x; height: 500px"/>
  
 </div>
