@@ -8,5 +8,5 @@
 ?>
     <h1>Price: $<?= number_format($stock["price"], 3) ?></h1>
 	 <div class="form-group">
-        <a class="btn btn-default" href= "buy.php?symbol=<?= $stock["symbol"] ?>" type="submit">Buy</a>
+        <a class="btn btn-default" href= "buy.php?symbol=<?= $stock["symbol"] ?>" type="submit"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>Buy</a>
     </div>
