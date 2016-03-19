@@ -6,7 +6,9 @@
          <div class="form-group">
             <input autofocus class="form-control" name="shares" placeholder="shares" type="int"/>
         </div>
-            <button type="submit" class="btn btn-default">Buy</button>
+             <button type="sybmit" class="btn btn-default btn-lg">
+              <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Buy
+            </button>
         </div>
     </fieldset>
 </form>
